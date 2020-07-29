@@ -1,6 +1,6 @@
-### Victor Bruno Castro Ribeiro
-#### Civil Engineering student - Federal University of Ceará
-Growing on Data Science Knowledge
+## Victor Bruno Castro Ribeiro
+### Civil Engineering student - Federal University of Ceará
+_Growing on Data Science Knowledge_
 ### >> Learning path
 #### Foundations
   |Federal University of Ceará||||
