@@ -11,11 +11,7 @@ Growing on Data Science Knowledge
   
   Python (OK)
 #### Machine Learning
-  CS229 - Machine Learning
-  
-  CS229A - Applied Machine Learning
-  
-  W4995 - Applied Machine Learning
+| CS229 - Machine Learning | CS229A - Applied Machine Learning | W4995 - Applied Machine Learning |
 #### Deep Learning 
   
   CS230 - Deep Learning
