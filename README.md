@@ -3,36 +3,26 @@
 Growing on Data Science Knowledge
 ### >> Learning path
 #### Foundations
-  Calculus (OK)
-  
-  Statistics (OK)
-  
-  Linear Algebra (OK)
-  
-  Python (OK)
+  |Federal University of Ceará||||
+  |---|---|---|---|
+  |Calculus (OK)|Statistics (OK)|Linear Algebra (OK)|Python (OK)
 #### Machine Learning
+|Stanford|Stanford-Coursera|Columbia|
+| --- | --- | --- |
 | CS229 - Machine Learning | CS229A - Applied Machine Learning | W4995 - Applied Machine Learning |
 #### Deep Learning 
-  
-  CS230 - Deep Learning
-  
-  Fast.ai - Pratical Deep Learning for coders
+  |Stanford|Fast.ai|
+| --- | --- |
+| CS230 - Deep Learning| Fast.ai - Pratical Deep Learning for coders|
 #### Data Mining
-  
-  CK0223 - Minearação de dados
+  | Federal University of Ceará|
+  |---|
+  |CK0223 - Minearação de dados|
 #### Big Data
-  
-  Hadoop
-  
-  Spark
-  
-  Docker
-  
-  Scala
-  
-  Power BI
+  |IBM - Cognitive Class|||||
+  |---|---|---|---|---|
+  |Hadoop| Spark|Docker|Scala|Power BI
 #### Cloud
-  
-  Google Cloud Data Engineering
-  
-  AWS
+  |Google|Amazon|
+  |---|---|
+  |Google Cloud Data Engineering|AWS
